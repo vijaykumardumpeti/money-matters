@@ -1,10 +1,12 @@
-import Login from "./components/login";
+// import Login from "./components/login";
+import DebitCreditView from "./components/DashBoard/debitCreditView";
 
 import "./App.css";
 
 const App = () => (
   <>
-    <Login />
+    {/* <Login /> */}
+    <DebitCreditView />
   </>
 );
 

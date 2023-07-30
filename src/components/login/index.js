@@ -63,7 +63,7 @@ export default class Login extends Component {
           <img
             className="website-logo"
             alt="website logo"
-            src="https://assets.ccbp.in/frontend/react-js/logo-img.png"
+            src="https://res.cloudinary.com/dbcvtcpqo/image/upload/v1690697190/Frame_507_pbcwrk.png"
           />
           <form onSubmit={this.submitFormData} className="form-container">
             <div className="input-container">
